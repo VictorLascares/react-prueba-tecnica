@@ -46,3 +46,11 @@ createRoot(document.getElementById('root')).render(
     </React.StrictMode>
 );
 ```
+# Tecnical test
+## APIs
+- [Random Facts](https://catfact.ninja/fact)
+- [Random Images](https://cataas.com/cat/says/hello)
+
+1. Get a random cat fact to the first API
+2. Extract the first word of the fact
+3. Show a cat image with the extracted word
